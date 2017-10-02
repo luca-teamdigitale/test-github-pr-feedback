@@ -1,2 +1,3 @@
 # test-github-pr-feedback
-Test http://chennai.ewi.tudelft.nl:60001/
+Test Github PR Feedback (http://chennai.ewi.tudelft.nl:60001/)
+
